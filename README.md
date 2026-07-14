@@ -9,12 +9,13 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution on frontend mentor](https://www.frontendmentor.io/solutions/blog-review-page-using-flexbox-CsMUvMTuLQ)
+- Live Site URL: [Live site](https://navanshu-qwerty.github.io/blog-preview-card/)
 
 ## My process
 
-My first intuitions were to divide the web page into different segments such as: 
+My first intuitions were to divide the web page into different segments such as: <br>
+```
 body
 └── container
     └── card
@@ -28,9 +29,9 @@ body
             └── name
 ```
         
-<1> I built a container class that would treat the main body as a flexbox and store the information cards.<br>
-<2> I defined a reusable card class that would be able to store the information required. Also in future if the page ever needs to hold several cards, it is possible because of the class declaration.<br>
-<3> To ensure that the images imported inside the card fits the description, i created separate classes that pre-define their size.<br>
+<1> I built a container class that would treat the main body as a flexbox and store the information cards.
+<2> I defined a reusable card class that would be able to store the information required. Also in future if the page ever needs to hold several cards, it is possible because of the class declaration.
+<3> To ensure that the images imported inside the card fits the description, i created separate classes that pre-define their size.
 
 
 ### Built with
